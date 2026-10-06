@@ -92,8 +92,13 @@ Namaste_Ghar/
 │       └── edit.ejs        # Edit existing listing form
 │
 └── public/
-    └── css/
-        └── style.css       # Custom styles
+    ├── css/
+    │   └── style.css               # Custom styles
+    └── screenshots/
+        ├── All Listings.png
+        ├── Listing Details.png
+        ├── Add New Listing.png
+        └── Edit Listing Details.png
 ```
 
 ---
