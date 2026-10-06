@@ -1,12 +1,13 @@
 {
   "name": "namaste_ghar",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A full-stack holiday rental listing web app built with Node.js, Express, MongoDB, and EJS.",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["nodejs", "express", "mongodb", "ejs", "mongoose", "listings", "rental", "full-stack"],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
